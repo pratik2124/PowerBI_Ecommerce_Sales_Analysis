@@ -2,4 +2,8 @@
 
 ## Problem Statement
 
-A US Based ECommerce Company want us to create a Sales Dashboard showing  
+A US Based Ecommerce Company want us to create a Sales Dashboard showing information of YTD Sales and generate insights for below scenarios:-
+
++ Create a KPI Banner showing YTD Sales, YTD Profit, YTD Quantity sold, YTD Profit Margin
++ Find Year on Year growth for each KPI and show a YTD sparkline for each measure in the KPI to understand the monthly trend for each fact.
++   
