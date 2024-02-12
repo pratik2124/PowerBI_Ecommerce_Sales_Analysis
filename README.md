@@ -9,4 +9,5 @@ A US Based Ecommerce Company want us to create a Sales Dashboard showing informa
 + Find YTD sales, PYTD sales, YoY Sales growth for different customer category. Add a trend icon for each category.
 + Find YTD Sales Performance by each state
 + Top 5 and Bottom 5 Products by Sales
-+   
++ YTD Sales by Region to know best and worst performing region all over country
++ YTD Sales by shipping Typee percentage   
