@@ -18,4 +18,10 @@ A US Based Ecommerce Company want us to create a Sales Dashboard showing informa
 + The YTD Profit has increased for the Consumer and Home Office segments, whereas it has decreased for the Corporate segment.
 + There has been a drop in YTD Quantity across all the segments.
 + The West Region has the highest Year to Date (YTD) Sales where south region has the lowest YTD Sales.
-+ Standard Class shipping type has the highest YTD Sales and same day shippping type has the lowest YTD Sales. 
++ Standard Class shipping type has the highest YTD Sales and same day shippping type has the lowest YTD Sales.
+
+## Recommendations
+
++ There is a drop in YTD Profit for the corporate segment so company can explore potential cost-saving measures, pricing adjustments or targeted marketing strategies to improve profitability in this segment. 
+
+
