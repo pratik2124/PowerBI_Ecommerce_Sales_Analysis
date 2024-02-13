@@ -10,4 +10,11 @@ A US Based Ecommerce Company want us to create a Sales Dashboard showing informa
 + Find YTD Sales Performance by each state
 + Top 5 and Bottom 5 Products by Sales
 + YTD Sales by Region to know best and worst performing region all over country
-+ YTD Sales by shipping Type to get the best shipping type percentage   
++ YTD Sales by shipping Type to get the best shipping type percentage 
+
+## Insights gained through analysis
+
++ There has been a drop in the YTD Sales of the company across all segments
++ The YTD Profit has increased for the Consumer and Home Office segments, whereas it has decreased for the Corporate segment.
++ There has been a drop in YTD Quantity across all the segments
++ 
