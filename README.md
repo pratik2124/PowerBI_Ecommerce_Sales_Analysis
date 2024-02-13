@@ -24,6 +24,6 @@ A US Based Ecommerce Company want us to create a Sales Dashboard showing informa
 
 + There is a drop in YTD Profit for the corporate segment so company can explore potential cost-saving measures, pricing adjustments or targeted marketing strategies to improve profitability in this segment.
 + Company can explore strategies such as targeted promotions, product diversification, price adjustments and customer engagement to increase the YTD Sales across all the segments.
-+ South Region has the lowest YTD Sales so company can make changes in their pricing startegies   
++ South Region has the lowest YTD Sales so company can make changes in their product offering and pricing strategies which are tailored to the preferences and needs of customers in the South region.     
 
 
