@@ -17,4 +17,5 @@ A US Based Ecommerce Company want us to create a Sales Dashboard showing informa
 + There has been a drop in the YTD Sales of the company across all segments.
 + The YTD Profit has increased for the Consumer and Home Office segments, whereas it has decreased for the Corporate segment.
 + There has been a drop in YTD Quantity across all the segments.
-+ The West Region has the highest Year to Date (YTD) Sales amongst all the regions.
++ The West Region has the highest Year to Date (YTD) Sales where south region has the lowest YTD Sales.
++ Standard Class shipping type has the highest YTD Sales and same day shippping type has the lowest YTD Sales. 
