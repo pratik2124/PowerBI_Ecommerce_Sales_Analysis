@@ -22,6 +22,8 @@ A US Based Ecommerce Company want us to create a Sales Dashboard showing informa
 
 ## Recommendations
 
-+ There is a drop in YTD Profit for the corporate segment so company can explore potential cost-saving measures, pricing adjustments or targeted marketing strategies to improve profitability in this segment. 
++ There is a drop in YTD Profit for the corporate segment so company can explore potential cost-saving measures, pricing adjustments or targeted marketing strategies to improve profitability in this segment.
++ Company can explore strategies such as targeted promotions, product diversification, price adjustments and customer engagement to increase the YTD Sales across all the segments.
++  
 
 
