@@ -26,4 +26,6 @@ A US Based Ecommerce Company want us to create a Sales Dashboard showing informa
 + Company can explore strategies such as targeted promotions, product diversification, price adjustments and customer engagement to increase the YTD Sales across all the segments.
 + South Region has the lowest YTD Sales so company can make changes in their product offering and pricing strategies which are tailored to the preferences and needs of customers in the South region.     
 
+![Screenshot 2024-02-23 123518](https://github.com/pratik2124/PowerBI_Ecommerce_Sales_Analysis/assets/156676954/781c5146-7f6f-4dd7-b706-230a8054b9ea)
+
 
